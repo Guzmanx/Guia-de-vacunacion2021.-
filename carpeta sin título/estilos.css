@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica;
+    background-image: url('fondo.jpg') ; 
+}
+
+
+
+.menu{
+    list-style: none;
+    padding: 70;
+    height: 90%;
+    background-image: url(image/fondo2.jpg);
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+
+}
+.menu li a{
+    text-decoration: 14px;
+    color:white;
+    padding: 40px;
+   display: block; 
+   text-align: center;
+}
+
+.menu li{
+    text-align: center;
+}
+
+.Menu li a:hover{
+    background-image: url(image/fondo2.jpg);
+}
+

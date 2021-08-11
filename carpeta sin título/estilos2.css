@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica;
+    background-image: url('fondo2..jpg')
+}
+
+.menu .body h1{
+    text-align: center;
+
+}
+
+.menu .body h2{
+    text-align: justify;
+}
